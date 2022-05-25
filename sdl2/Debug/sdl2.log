@@ -1,0 +1,8 @@
+﻿  sdl2.cpp
+f:\sdl2_dziala\sdl2\sdl2\sdl2.cpp(13): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+f:\sdl2_dziala\sdl2\sdl2\sdl2.cpp(17): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+f:\sdl2_dziala\sdl2\sdl2\sdl2.cpp(19): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+f:\sdl2_dziala\sdl2\sdl2\sdl2.cpp(20): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+f:\sdl2_dziala\sdl2\sdl2\sdl2.cpp(35): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+  LINK : nie znaleziono elementu F:\sdl2_dziala\sdl2\Debug\sdl2.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  sdl2.vcxproj -> F:\sdl2_dziala\sdl2\Debug\sdl2.exe
